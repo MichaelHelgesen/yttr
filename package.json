@@ -9,6 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "@plasmicapp/cli": "^0.1.342",
+>>>>>>> 48c4ab95eb2486c8ed95871cd239babd6c978c24
     "@plasmicapp/react-web": "^0.2.399",
     "next": "15.5.2",
     "react": "19.1.0",
